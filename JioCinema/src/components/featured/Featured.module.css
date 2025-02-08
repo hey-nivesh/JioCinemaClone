@@ -1,0 +1,15 @@
+.featured{
+    width: 100%;
+    height: 500px;
+    background-color: #060707;
+    padding: 10px 2%;
+}
+
+.shows{
+    width: 100%;
+    background-color: #060707;
+    padding: 20px 0px;
+    display: flex;
+    padding: 0px 10px;
+    column-gap: 18px;
+}

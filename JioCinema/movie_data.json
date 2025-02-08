@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Inception",
+    "movie_id": "M001",
+    "genre": "Sci-Fi",
+    "language": "English",
+    "featured": true,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page"
+    ],
+    "ImDB_rating": 8.8,
+    "runtime": 148,
+    "description": "A thief with the ability to enter people's dreams and steal secrets faces a final mission.",
+    "country": "USA",
+    "id": 1,
+    "image_url": "https://rukminim2.flixcart.com/image/850/1000/j9k8ivk0/poster/2/y/t/medium-inception-poster-print-poster-on-13x19-inches-poster5111-original-imaezyyz4u8m7eyx.jpeg?q=90&crop=false"
+  },
+  {
+    "name": "Parasite",
+    "movie_id": "M002",
+    "genre": "Thriller",
+    "language": "Korean",
+    "featured": true,
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong"
+    ],
+    "ImDB_rating": 8.6,
+    "runtime": 132,
+    "description": "A poor family schemes to become employed by a wealthy family by infiltrating their household.",
+    "country": "South Korea",
+    "id": 2,
+    "image_url":"https://i.etsystatic.com/23402008/r/il/0e5769/2499687838/il_1140xN.2499687838_7a06.jpg"
+  },
+  {
+    "name": "The Dark Knight",
+    "movie_id": "M003",
+    "genre": "Action",
+    "language": "English",
+    "featured": true,
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "ImDB_rating": 9.0,
+    "runtime": 152,
+    "description": "Batman sets out to dismantle the remaining criminal organizations that plague Gotham.",
+    "country": "USA",
+    "id": 3,
+    "image_url": "https://i.etsystatic.com/17257718/r/il/f4d506/3198058192/il_1140xN.3198058192_nm71.jpg"
+  },
+  {
+    "name": "Interstellar",
+    "movie_id": "M004",
+    "genre": "Sci-Fi",
+    "language": "English",
+    "featured": true,
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain"
+    ],
+    "ImDB_rating": 8.7,
+    "runtime": 169,
+    "description": "A group of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "country": "USA",
+    "id": 4,
+    "image_url":"https://cdn.shopify.com/s/files/1/1416/8662/products/interstellar_2014_advance_original_film_art_682852f2-23f6-46de-a1db-4029d5b6f0b4_800x.jpg?v=1574284010"
+  },
+  {
+    "name": "Spirited Away",
+    "movie_id": "M005",
+    "genre": "Animation",
+    "language": "Japanese",
+    "featured": true,
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki"
+    ],
+    "ImDB_rating": 8.6,
+    "runtime": 125,
+    "description": "A young girl wanders into a world ruled by gods, spirits, and witches.",
+    "country": "Japan",
+    "id": 5,
+    "image_url":"https://tse4.mm.bing.net/th?id=OIP.QMhUPJP-rxle1tIVq712xwHaKv&pid=Api"
+  },
+  {
+    "name": "Avatar",
+    "movie_id": "M006",
+    "genre": "Sci-Fi",
+    "language": "English",
+    "featured": true,
+    "cast": [
+      "Sam Worthington",
+      "Zoe Saldana",
+      "Sigourney Weaver"
+    ],
+    "ImDB_rating": 7.8,
+    "runtime": 162,
+    "description": "A paraplegic Marine is sent to Pandora on a unique mission.",
+    "country": "USA",
+    "id": 6,
+    "image_url":"https://www.themoviedb.org/t/p/original/6EiRUJpuoeQPghrs3YNktfnqOVh.jpg"
+  },
+  {
+    "name": "The Godfather",
+    "movie_id": "M007",
+    "genre": "Crime",
+    "language": "Hindi",
+    "featured": false,
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "ImDB_rating": 9.2,
+    "runtime": 175,
+    "description": "The aging patriarch of an organized crime dynasty transfers control to his reluctant son.",
+    "country": "USA",
+    "id": 7,
+    "image_url":"https://posterspy.com/wp-content/uploads/2019/04/godfather.jpg"
+  },
+  {
+    "name": "Whiplash",
+    "movie_id": "M008",
+    "genre": "Drama",
+    "language": "English",
+    "featured": false,
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser"
+    ],
+    "ImDB_rating": 8.5,
+    "runtime": 107,
+    "description": "A promising young drummer enrolls at a cutthroat music conservatory.",
+    "country": "USA",
+    "id": 8,
+    "image_url":"https://image.tmdb.org/t/p/original/vwUgbOGSae8OIiYG9SsE5CMcFQg.jpg"
+  },
+  {
+    "name": "Your Name",
+    "movie_id": "M009",
+    "genre": "Animation",
+    "language": "Japanese",
+    "featured": false,
+    "cast": [
+      "Ryunosuke Kamiki",
+      "Mone Kamishiraishi",
+      "Masami Nagasawa"
+    ],
+    "ImDB_rating": 8.4,
+    "runtime": 106,
+    "description": "Two teenagers share a profound connection upon mysteriously swapping bodies.",
+    "country": "Japan",
+    "id": 9,
+    "image_url":"https://image.tmdb.org/t/p/original/pZ7qsb8kqYqQuFzjFeAQ2IlbiXW.jpg"
+  },
+  {
+    "name": "The Prestige",
+    "movie_id": "M010",
+    "genre": "Mystery",
+    "language": "Hindi",
+    "featured": false,
+    "cast": [
+      "Hugh Jackman",
+      "Christian Bale",
+      "Scarlett Johansson"
+    ],
+    "ImDB_rating": 8.5,
+    "runtime": 130,
+    "description": "Two stage magicians engage in a battle to create the ultimate illusion.",
+    "country": "USA",
+    "id": 10,
+    "image_url":"https://tse4.mm.bing.net/th?id=OIP.xyw2vwxqbxTJb8PStW7e_gHaK_&pid=Api"
+  },
+  {
+    "name": "Fight Club",
+    "movie_id": "M011",
+    "genre": "Drama",
+    "language": "English",
+    "featured": false,
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter"
+    ],
+    "ImDB_rating": 8.8,
+    "runtime": 139,
+    "description": "An insomniac office worker forms an underground fight club.",
+    "country": "USA",
+    "id": 11,
+    "image_url":"https://www.themoviedb.org/t/p/original/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg"
+  },
+  {
+    "name": "The Matrix",
+    "movie_id": "M012",
+    "genre": "Sci-Fi",
+    "language": "English",
+    "featured": true,
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "ImDB_rating": 8.7,
+    "runtime": 136,
+    "description": "A computer hacker learns about the true nature of reality.",
+    "country": "USA",
+    "id": 12,
+    "image_url":"https://picfiles.alphacoders.com/385/385304.jpg"
+  },
+  {
+    "name": "Gladiator",
+    "movie_id": "M013",
+    "genre": "Action",
+    "language": "English",
+    "featured": true,
+    "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen"
+    ],
+    "ImDB_rating": 8.5,
+    "runtime": 155,
+    "description": "A former Roman general seeks revenge against the corrupt emperor.",
+    "country": "USA",
+    "id": 13,
+    "image_url":"https://tse1.mm.bing.net/th?id=OIP.8dQ3fJ96gKF75Ojj6zNm_wHaLB&pid=Api"
+  },
+  {
+    "name": "The Lion King",
+    "movie_id": "M014",
+    "genre": "Animation",
+    "language": "Hindi",
+    "featured": true,
+    "cast": [
+      "Matthew Broderick",
+      "Jeremy Irons",
+      "James Earl Jones"
+    ],
+    "ImDB_rating": 8.5,
+    "runtime": 88,
+    "description": "A lion cub flees after his father is murdered and later returns to reclaim his throne.",
+    "country": "USA",
+    "id": 14,
+    "image_url":"https://www.bestmovieposters.co.uk/wp-content/uploads/2019/01/The-Lion-King.jpg"
+  },
+  {
+    "name": "Pulp Fiction",
+    "movie_id": "M015",
+    "genre": "Crime",
+    "language": "English",
+    "featured": false,
+    "cast": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson"
+    ],
+    "ImDB_rating": 8.9,
+    "runtime": 154,
+    "description": "The lives of hitmen, a boxer, and criminals intertwine in Los Angeles.",
+    "country": "USA",
+    "id": 15,
+    "image_url":"https://image.tmdb.org/t/p/original/kK6iLyKi9Kg86qR2xPxOU94UEel.jpg"
+  },
+  {
+    "name": "Forrest Gump",
+    "movie_id": "M016",
+    "genre": "Drama",
+    "language": "Hindi",
+    "featured": true,
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise"
+    ],
+    "ImDB_rating": 8.8,
+    "runtime": 142,
+    "description": "The life journey of a kind-hearted man with an IQ of 75.",
+    "country": "USA",
+    "id": 16,
+    "image_url":"https://c8.alamy.com/comp/PXNB1J/forrest-gump-original-movie-poster-PXNB1J.jpg"
+  },
+  {
+    "name": "The Shawshank Redemption",
+    "movie_id": "M017",
+    "genre": "Drama",
+    "language": "Hindi",
+    "featured": true,
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton"
+    ],
+    "ImDB_rating": 9.3,
+    "runtime": 142,
+    "description": "Two imprisoned men bond over decades, finding redemption in the process.",
+    "country": "USA",
+    "id": 17,
+    "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAORn2QCTSgeqnuHYdJgTKX_KrWX_tkzTF1Q&s"
+  },
+  {
+    "name": "Goodfellas",
+    "movie_id": "M018",
+    "genre": "Crime",
+    "language": "Hindi",
+    "featured": false,
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci"
+    ],
+    "ImDB_rating": 8.7,
+    "runtime": 146,
+    "description": "The rise and fall of a mob associate in the American crime world.",
+    "country": "USA",
+    "id": 18,
+    "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ23JwU8vZ4uybP_2-2yETpN4o4Jis0Ew_QZK8YOeB3sEpHRKN"
+  },
+  {
+    "name": "The Grand Budapest Hotel",
+    "movie_id": "M019",
+    "genre": "Comedy",
+    "language": "English",
+    "featured": true,
+    "cast": [
+      "Ralph Fiennes",
+      "Tony Revolori",
+      "Saoirse Ronan"
+    ],
+    "ImDB_rating": 8.1,
+    "runtime": 99,
+    "description": "A legendary concierge and his protégé become embroiled in a mystery.",
+    "country": "USA",
+    "id": 19
+  },
+  {
+    "name": "Coco",
+    "movie_id": "M020",
+    "genre": "Animation",
+    "language": "English",
+    "featured": true,
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael García Bernal",
+      "Benjamin Bratt"
+    ],
+    "ImDB_rating": 8.4,
+    "runtime": 105,
+    "description": "A boy embarks on a journey in the Land of the Dead to uncover his family's past.",
+    "country": "USA",
+    "id": 20
+  },
+  {
+    "name": "A Silent Voice",
+    "movie_id": "M021",
+    "genre": "Animation",
+    "language": "Japanese",
+    "featured": false,
+    "cast": [
+      "Miyu Irino",
+      "Saori Hayami",
+      "Aoi Yuki"
+    ],
+    "ImDB_rating": 8.2,
+    "runtime": 129,
+    "description": "A boy seeks redemption after bullying a deaf girl in his youth.",
+    "country": "Japan",
+    "id": 21
+  },
+  {
+    "name": "Joker",
+    "movie_id": "M022",
+    "genre": "Crime",
+    "language": "English",
+    "featured": false,
+    "cast": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz"
+    ],
+    "ImDB_rating": 8.4,
+    "runtime": 122,
+    "description": "An aspiring comedian turns to crime and chaos in Gotham City.",
+    "country": "USA",
+    "id": 22
+  },
+  {
+    "name": "Mad Max: Fury Road",
+    "movie_id": "M023",
+    "genre": "Action",
+    "language": "English",
+    "featured": true,
+    "cast": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult"
+    ],
+    "ImDB_rating": 8.1,
+    "runtime": 120,
+    "description": "A post-apocalyptic road warrior helps a group of rebels escape tyranny.",
+    "country": "Australia",
+    "id": 23
+  },
+  {
+    "name": "Django Unchained",
+    "movie_id": "M024",
+    "genre": "Western",
+    "language": "English",
+    "featured": false,
+    "cast": [
+      "Jamie Foxx",
+      "Christoph Waltz",
+      "Leonardo DiCaprio"
+    ],
+    "ImDB_rating": 8.4,
+    "runtime": 165,
+    "description": "A freed slave sets out to rescue his wife from a brutal plantation owner.",
+    "country": "USA",
+    "id": 24
+  },
+  {
+    "name": "Se7en",
+    "movie_id": "M025",
+    "genre": "Thriller",
+    "language": "English",
+    "featured": false,
+    "cast": [
+      "Morgan Freeman",
+      "Brad Pitt",
+      "Kevin Spacey"
+    ],
+    "ImDB_rating": 8.6,
+    "runtime": 127,
+    "description": "Two detectives hunt a serial killer who uses the seven deadly sins as his motives.",
+    "country": "USA",
+    "id": 25
+  },
+  {
+    "name": "The Revenant",
+    "movie_id": "M026",
+    "genre": "Adventure",
+    "language": "English",
+    "featured": false,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Tom Hardy",
+      "Domhnall Gleeson"
+    ],
+    "ImDB_rating": 8.0,
+    "runtime": 156,
+    "description": "A frontiersman seeks vengeance after being left for dead.",
+    "country": "USA",
+    "id": 26
+  },
+  {
+    "name": "The Wolf of Wall Street",
+    "movie_id": "M027",
+    "genre": "Biography",
+    "language": "English",
+    "featured": false,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Jonah Hill",
+      "Margot Robbie"
+    ],
+    "ImDB_rating": 8.2,
+    "runtime": 180,
+    "description": "The true story of a stockbroker’s rise and fall in Wall Street.",
+    "country": "USA",
+    "id": 27
+  },
+  {
+    "name": "The Irishman",
+    "movie_id": "M028",
+    "genre": "Crime",
+    "language": "English",
+    "featured": false,
+    "cast": ["Robert De Niro", "Al Pacino", "Joe Pesci"],
+    "ImDB_rating": 7.8,
+    "runtime": 209,
+    "description": "A hitman recalls his involvement with the Bufalino crime family.",
+    "country": "USA",
+    "id": 28
+  },
+  {
+    "name": "The Social Network",
+    "movie_id": "M029",
+    "genre": "Biography",
+    "language": "English",
+    "featured": true,
+    "cast": ["Jesse Eisenberg", "Andrew Garfield", "Justin Timberlake"],
+    "ImDB_rating": 7.7,
+    "runtime": 120,
+    "description": "The rise of Facebook and its creator Mark Zuckerberg.",
+    "country": "USA",
+    "id": 29
+  },
+  {
+    "name": "La La Land",
+    "movie_id": "M030",
+    "genre": "Romance",
+    "language": "English",
+    "featured": true,
+    "cast": ["Ryan Gosling", "Emma Stone", "John Legend"],
+    "ImDB_rating": 8.0,
+    "runtime": 128,
+    "description": "A musician and an aspiring actress fall in love in Los Angeles.",
+    "country": "USA",
+    "id": 30
+  },
+  {
+    "name": "Tenet",
+    "movie_id": "M031",
+    "genre": "Sci-Fi",
+    "language": "English",
+    "featured": true,
+    "cast": ["John David Washington", "Robert Pattinson", "Elizabeth Debicki"],
+    "ImDB_rating": 7.3,
+    "runtime": 150,
+    "description": "A secret agent manipulates time to prevent World War III.",
+    "country": "USA",
+    "id": 31
+  },
+  {
+    "name": "The Pianist",
+    "movie_id": "M032",
+    "genre": "Drama",
+    "language": "English",
+    "featured": false,
+    "cast": ["Adrien Brody", "Thomas Kretschmann", "Frank Finlay"],
+    "ImDB_rating": 8.5,
+    "runtime": 150,
+    "description": "A Polish Jewish musician struggles to survive the Holocaust.",
+    "country": "Poland",
+    "id": 32,
+    "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgfqfBK-vmM9JlmZbLyYp_h3br4A0VM4WyOg&s"
+  },
+  {
+    "name": "The Truman Show",
+    "movie_id": "M033",
+    "genre": "Drama",
+    "language": "English",
+    "featured": false,
+    "cast": ["Jim Carrey", "Laura Linney", "Ed Harris"],
+    "ImDB_rating": 8.2,
+    "runtime": 103,
+    "description": "A man discovers his entire life is a TV show.",
+    "country": "USA",
+    "id": 33,
+    "image_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqy_nkTMekIPuzOcdX04osQqRPR-f8qjYWmg&s"
+  },
+  {
+    "name": "1917",
+    "movie_id": "M034",
+    "genre": "War",
+    "language": "English",
+    "featured": true,
+    "cast": ["George MacKay", "Dean-Charles Chapman", "Mark Strong"],
+    "ImDB_rating": 8.2,
+    "runtime": 119,
+    "description": "Two British soldiers race against time to deliver a message.",
+    "country": "UK",
+    "id": 34
+  },
+  {
+    "name": "Blade Runner 2049",
+    "movie_id": "M035",
+    "genre": "Sci-Fi",
+    "language": "English",
+    "featured": true,
+    "cast": ["Ryan Gosling", "Harrison Ford", "Ana de Armas"],
+    "ImDB_rating": 8.0,
+    "runtime": 164,
+    "description": "A new blade runner uncovers a long-buried secret.",
+    "country": "USA",
+    "id": 35
+  },
+  {
+    "name": "The Green Mile",
+    "movie_id": "M036",
+    "genre": "Drama",
+    "language": "English",
+    "featured": false,
+    "cast": ["Tom Hanks", "Michael Clarke Duncan", "David Morse"],
+    "ImDB_rating": 8.6,
+    "runtime": 189,
+    "description": "A death row officer witnesses supernatural events.",
+    "country": "USA",
+    "id": 36
+  },
+  {
+    "name": "Requiem for a Dream",
+    "movie_id": "M037",
+    "genre": "Drama",
+    "language": "English",
+    "featured": false,
+    "cast": ["Ellen Burstyn", "Jared Leto", "Jennifer Connelly"],
+    "ImDB_rating": 8.3,
+    "runtime": 102,
+    "description": "The lives of drug addicts spiral out of control.",
+    "country": "USA",
+    "id": 37
+  },
+  {
+    "name": "The Departed",
+    "movie_id": "M038",
+    "genre": "Crime",
+    "language": "English",
+    "featured": true,
+    "cast": ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson"],
+    "ImDB_rating": 8.5,
+    "runtime": 151,
+    "description": "An undercover cop and a mole in the police cross paths.",
+    "country": "USA",
+    "id": 38
+  },
+  {
+    "name": "No Country for Old Men",
+    "movie_id": "M039",
+    "genre": "Thriller",
+    "language": "English",
+    "featured": false,
+    "cast": ["Tommy Lee Jones", "Javier Bardem", "Josh Brolin"],
+    "ImDB_rating": 8.2,
+    "runtime": 122,
+    "description": "A hunter stumbles upon a deadly drug deal gone wrong.",
+    "country": "USA",
+    "id": 39
+  },
+  {
+    "name": "Moonlight",
+    "movie_id": "M040",
+    "genre": "Drama",
+    "language": "English",
+    "featured": true,
+    "cast": ["Mahershala Ali", "Trevante Rhodes", "Naomie Harris"],
+    "ImDB_rating": 7.4,
+    "runtime": 111,
+    "description": "A young African-American man grapples with his identity.",
+    "country": "USA",
+    "id": 40
+  },
+  {
+    "name": "A Beautiful Mind",
+    "movie_id": "M041",
+    "genre": "Biography",
+    "language": "English",
+    "featured": true,
+    "cast": ["Russell Crowe", "Jennifer Connelly", "Ed Harris"],
+    "ImDB_rating": 8.2,
+    "runtime": 135,
+    "description": "A brilliant mathematician struggles with schizophrenia.",
+    "country": "USA",
+    "id": 41
+  },
+  {
+    "name": "Casablanca",
+    "movie_id": "M042",
+    "genre": "Romance",
+    "language": "English",
+    "featured": false,
+    "cast": ["Humphrey Bogart", "Ingrid Bergman", "Paul Henreid"],
+    "ImDB_rating": 8.5,
+    "runtime": 102,
+    "description": "A man is torn between love and duty in wartime Casablanca.",
+    "country": "USA",
+    "id": 42
+  },
+  {
+    "name": "The Silence of the Lambs",
+    "movie_id": "M043",
+    "genre": "Thriller",
+    "language": "English",
+    "featured": false,
+    "cast": ["Jodie Foster", "Anthony Hopkins", "Scott Glenn"],
+    "ImDB_rating": 8.6,
+    "runtime": 118,
+    "description": "An FBI trainee seeks help from a brilliant cannibal killer.",
+    "country": "USA",
+    "id": 43
+  },
+  {
+    "name": "Slumdog Millionaire",
+    "movie_id": "M044",
+    "genre": "Drama",
+    "language": "Japanese",
+    "featured": true,
+    "cast": ["Dev Patel", "Freida Pinto", "Anil Kapoor"],
+    "ImDB_rating": 8.0,
+    "runtime": 120,
+    "description": "An orphan from Mumbai's slums wins a game show.",
+    "country": "India",
+    "id": 44
+  }
+]
